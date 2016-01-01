@@ -1,0 +1,28 @@
+name: Treasure of China
+favicon: null
+layout_spectrum: 0.360550822224468
+typography_spectrum: 0.42025883332826197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.46708374354057014
+  lightness: 0.9153023834805936
+  saturation: 0.37902258755639195
+  rhythmicContrast: 0.9608889964874834
+purpose: []

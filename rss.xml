@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Treasure of China]]></title>
+        <description><![CDATA[Treasure of China]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 22:20:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treasure of China]]></title>
+            <description><![CDATA[<article><h1>Treasure of China</h1><p>About Us</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b9af0554d738e2b2295fb820664e9f1983771d.jpg"></article>]]></description>
+            <link>undefinedtreasure-of-china/index.html</link>
+            <guid isPermaLink="false">6666fc72-7c68-4db0-b642-6492dba0a84d</guid>
+            <pubDate>Fri, 01 Jan 2016 22:20:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

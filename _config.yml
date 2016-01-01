@@ -1,6 +1,6 @@
 name: Treasure of China
 favicon: null
-layout_spectrum: 0.360550822224468
+layout_spectrum: 0.33189
 typography_spectrum: 0.42025883332826197
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#b3703c'
   brandStrength: 0.25
   lightness: 0.9153023834805936
-  saturation: 0.37902258755639195
-  rhythmicContrast: 0.9608889964874834
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
